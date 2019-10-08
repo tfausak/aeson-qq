@@ -39,7 +39,6 @@ source-dirs: src
 library:
   exposed-modules:
     - Data.Aeson.QQ
-  dependencies:
 
 tests:
   spec:
